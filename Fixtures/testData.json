@@ -1,0 +1,42 @@
+{
+  "user": {
+    "email": "yitil73001@lisoren.com",
+    "firstName": "John",
+    "lastName": "Doe",
+    "password": "Password123!",
+    "dayOfBirth": "21",
+    "monthOfBirth": "6",
+    "yearOfBirth": "1990"
+  },
+  "login": {
+    "email": "faizanzubair7991@gmail.com",
+    "password": "lex5162942"
+  },
+  "info": {
+    "email": "yitil73001@lisoren.com",
+    "firstName": "John",
+    "lastName": "Doe",
+    "password": "Password123!",
+    "dayOfBirth": "21",
+    "monthOfBirth": "6",
+    "yearOfBirth": "1990",
+    "company": "Doe Inc.",
+    "address1": "123 Main St",
+    "address2": "Apt 4B",
+    "city": "Anytown",
+    "state": "California",
+    "zipCode": "90210",
+    "country": "United States",
+    "homePhone": "5551234567",
+    "mobilePhone": "5559876543"
+  },
+  "searchQuery": "dress",
+  "friendDetails": {
+    "friendName": "Jane Doe",
+    "friendEmail": "rehanzubair7991@gmail.com"
+  },
+  "contactMessage": {
+    "subject": "Customer service",
+    "message": "This is a test message. Please ignore."
+  }
+}
